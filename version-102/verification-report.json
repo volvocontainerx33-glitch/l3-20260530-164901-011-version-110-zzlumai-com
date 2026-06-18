@@ -1,0 +1,13 @@
+{
+  "movie_count_from_txt": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "category_card_count": 2000,
+  "category_coverage_equals_movies": true,
+  "html_page_count": 2016,
+  "baidu_analytics_missing_pages_sample": [],
+  "player_pages_with_hls_source": 2000,
+  "missing_local_html_links_sample": [],
+  "logo_name": "精选国产影片",
+  "generated_on": "2026-05-27"
+}
